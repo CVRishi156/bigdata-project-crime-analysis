@@ -1,0 +1,1 @@
+This project analyzes large-scale crime datasets using Python to uncover trends, patterns, and insights. It performs data preprocessing, cleaning, visualization, and simple predictive analysis to help understand crime distribution across time, location, and category.
